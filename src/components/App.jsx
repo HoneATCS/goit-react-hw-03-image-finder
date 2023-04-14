@@ -5,7 +5,6 @@ import './App.css';
 import { fetchImages } from './fetchImages/fetchImages';
 import Searchbar from './Searchbar';
 import Notiflix from 'notiflix';
-// import Loader from './Loader';
 
 let page = 1;
 
